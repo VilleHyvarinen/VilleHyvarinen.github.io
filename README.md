@@ -1,9 +1,9 @@
-## Picktue
+## Picktue Oy
 
-Coming soon!
+### Tulossa pian!  
 
 
-### Contacts
+# Ota yhteyttä
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
