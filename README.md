@@ -10,9 +10,9 @@
 
 ### Yhteystiedot
 
-**Bold** Picktue Oy
-**Bold** info@picktue.com
-**Bold** +358 44 5828830
+#### Picktue Oy
+#### info@picktue.com
+#### +358 44 5828830
 
 
 
