@@ -5,10 +5,12 @@
 
 # Ota yhteyttä
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+
+Picktue Oy
+info@picktue.com
++358 44 5828830
+3266489-9
 
 # Header 1
 ## Header 2
