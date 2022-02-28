@@ -16,12 +16,12 @@
 Picktue Oy
 info@picktue.com
 +358 44 5828830
-
+Y-tunnus 3266489-9
 
 
 ```
 
-Y-tunnus 3266489-9
+
 
 
 
